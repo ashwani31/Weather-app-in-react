@@ -8,7 +8,7 @@ function ShowTemp({text}) {
                     <div class="card">
 
                         <div class="card-body">
-                            <h5 class="card-title">Description</h5>
+                            <h5 class="card-title">Descriptions</h5>
                             <p class="card-text">{text.description}</p>
                         </div>
                     </div>

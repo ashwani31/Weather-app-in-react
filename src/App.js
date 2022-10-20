@@ -37,7 +37,7 @@ function App() {
                 <input type="text" className='from-control' value={city} onChange={(e) => {
                     setCity(e.target.value);
                 }} />
-                <button className='btn btn-primary mx-2' type='submit' onClick={handleClick}>get temp</button>
+                <button className='btn btn-primary mx-2' type='submit' onClick={handleClick}>Show temp</button>
 
             </div>
 
